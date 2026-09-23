@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bd321e1a2fcf4d0ce93e7812",
+  "owner": "br5cqyxe",
+  "repo": "page-986097d425fc8d2806a5e2cd",
+  "title": "青松",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "986097d425fc8d2806a5e2cd",
+      "a": "青松",
+      "b": "稳定全球clash加速器",
+      "entity": "青松",
+      "brand": "青松",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0fbb3896e72fea288008785ceafd859e208fffbff3c1fff56f80872b1e4fe361",
+      "content": {
+        "primary_entity": "青松",
+        "keyword1": "青松",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，再导入青松订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从套餐对比开始，为设备选好客户端并导入订阅。",
+          "AI_CLOSING_TITLE": "选对青松套餐",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供清晰路径，帮助不同使用场景快速找到合适的接入方式。",
+          "AI_FEATURES_INTRO": "从套餐定位、设备数量到订阅周期，三个角度评估青松是否匹配使用需求。",
+          "AI_FEATURES_TITLE": "选择青松的实用依据",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备与日常浏览，旗舰版覆盖 5 台设备并优化流媒体与游戏线路。",
+          "AI_FEATURE_TEXT_2": "手机、平板与桌面系统分别选用对应客户端，按客户端文档导入青松订阅即可。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "套餐按场景分层",
+          "AI_FEATURE_TITLE_2": "设备适配先行",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅导入，按三个步骤完成青松配置。",
+          "AI_GUIDE_TITLE": "青松使用指引",
+          "AI_HERO_INTRO": "青松提供多档套餐，覆盖个人到团队的不同设备规模。基础版适合 3 台设备日常使用，旗舰版加强流媒体与游戏线路，团队版可满足 20 台设备协作需求。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，满足日常浏览",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化游戏体验",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数量和节点权限上不同，按使用人数和流量需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合设备数量与每月流量，从基础版、旗舰版、团队版中锁定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端与设备系统能够满足。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档，将青松订阅信息导入并开启连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "青松多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出数量时可先断开不用的设备，或升级到更高版本。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。日常浏览与视频建议 300GB 以上，多人共用可选团队版。",
+          "AI_FAQ_ANSWER_3": "基础版为普通线路节点池，旗舰版含 IPLC 专线并对游戏加速优化，团队版提供 VIP 专属高带宽节点。按延迟和带宽需求选择。",
+          "AI_FAQ_ANSWER_4": "可以。基础版按年付 ¥150，旗舰版按年付 ¥350，团队版按年付 ¥850，比月付更划算，订阅周期内套餐权益保持不变。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅链接即可，支持 Clash、Shadowrocket、Surge、v2rayN 等常见客户端。各客户端的具体操作可参考青松配置文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "青松套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "普通线路和 IPLC 专线有什么区别？",
+          "AI_FAQ_QUESTION_4": "可以按年付吗？年付有什么优惠？",
+          "AI_FAQ_QUESTION_5": "如何把青松订阅导入客户端？",
+          "AI_FAQ_TITLE": "青松常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nuobeish.com",
+    "host": "nuobeish.com"
+  },
+  "file_hashes": {
+    "index.html": "3e49c0a9428f37fcabbe821305f8d4918bf4ee6a255af29d63126b0c8ea7634b",
+    "sitemap.xml": "7cfcbf153822f24c780e08596cd6165e02655dc6e9ec6fe03eccbc36bdad986f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c0dbec1134af30582996a746c1528fee643a8c7b3701babc5ebeaae14cab2d12",
+    "robots.txt": "450e3f58b0766678840650490803e461a9df5c8a3acdea9ce0d7a263526fa6d5",
+    "61b881a39ba9d65279cf751e5139232d.txt": "2ecfb49c9877309bb69d5891ef753a5bc794faf6a455107b1ac8777ec0a39ff9"
+  },
+  "revision": "61615a84c5d7e652d2807fa36b85515e241491765fc693ed6afad95284aaea73"
+}
